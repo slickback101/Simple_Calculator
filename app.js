@@ -29,7 +29,7 @@ const rl = readline.createInterface({
 
 // For Display
 function displayMenu() {
-    console.log('\n===== KESTERs CALCULATOR ====='.info);
+    console.log('\n===== KESTER CALCULATOR ====='.info);
     console.log('1. Addition'.green);
     console.log('2. Subtraction'.blue);
     console.log('3. Multiplication'.yellow);
@@ -95,7 +95,7 @@ function performCalculation(operation) {
 }
 
 
-console.log('Node.js Calculator Application'.rainbow.bold);
+console.log('Kester Calculator Application'.rainbow.bold);
 console.log('This application demonstrates the use of different types of modules:'.info);
 console.log('- Built-in modules: path, readline'.info);
 console.log('- Third-party module: colors'.info);
