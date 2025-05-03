@@ -29,7 +29,7 @@ const rl = readline.createInterface({
 
 // For Display
 function displayMenu() {
-    console.log('\n===== NODE.JS CALCULATOR ====='.info);
+    console.log('\n===== KESTERs CALCULATOR ====='.info);
     console.log('1. Addition'.green);
     console.log('2. Subtraction'.blue);
     console.log('3. Multiplication'.yellow);
